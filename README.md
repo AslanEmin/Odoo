@@ -1,0 +1,2 @@
+# Odoo
+My Training Odoo
